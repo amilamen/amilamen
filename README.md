@@ -8,9 +8,11 @@ My favourite stack in front-end is **Ionic - Angular - Capacitor/Cordova** becau
 
 I forget 🤔 I'm 🤓🤓**Electronics and Embedded Systems Engineer**🤓🤓
 
+You can follow me on [Twitter](https://twitter.com/ezchilamen) for fun discussions...
+
 Happy to read your resume also on your profile.
 
-
+🔭 Stay tuned !
 <!--
 **amilamen/amilamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
