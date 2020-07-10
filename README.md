@@ -6,7 +6,7 @@ I work at [**Vyconsulting**](https://vyconsulting-group.com) (@vy-group) with an
 
 My favourite stack in front-end is **Ionic - Angular - Capacitor/Cordova** because *I ❤️ mobile development as much as web development* and **Nestjs or Laravel** as back-end 😄 
 
-I forget 🤔 I'm 🤓🤓**Electronics and Embedded Systems Engineer**🤓🤓 with focus on *IOT*.
+I forget 🤔 I'm firstly 🤓🤓**Electronics and Embedded Systems Engineer**🤓🤓 with focus on *IOT*.
 
 You can follow me on [Twitter](https://twitter.com/ezchilamen) for fun discussions...
 
