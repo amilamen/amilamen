@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Amen 👋
 
 ![Alt Text](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
 
