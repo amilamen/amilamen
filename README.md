@@ -1,6 +1,7 @@
 ### Hi there, I'm Amen 👋
 
-![Alt Text](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40" height="40" />
+
 
 I'm developer fullstack 🤓🤓**JavaScript**🤓🤓 with some skills in *PHP* and *Java*. 
 
