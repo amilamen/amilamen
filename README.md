@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt Text](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
+
 I'm developer fullstack 🤓🤓**JavaScript**🤓🤓 with some skills in *PHP* and *Java*. 
 
 I work at [**Vyconsulting**](https://vyconsulting-group.com) (@vy-group) with an awesome team. We help many companies or business through development of mobile and web apps for growth of their benefits.  
