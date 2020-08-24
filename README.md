@@ -1,9 +1,6 @@
 ### Hi there, I'm Amen 👋
 
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" height="200" />
-
 [![Amen's github stats](https://github-readme-stats.vercel.app/api?username=amilamen&count_private=true&show_icons=true&theme=synthwave)](https://github.com/amilamen/github-readme-stats)
-
 
 I'm developer fullstack 🤓🤓**JavaScript**🤓🤓 with some skills in *PHP* and *Java*. 
 
@@ -18,6 +15,8 @@ You can follow me on [Twitter](https://twitter.com/ezchilamen) for fun discussio
 Happy to read your resume also on your profile.
 
 🔭 Stay tuned !
+
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" height="200" />
 
 <!--
 **amilamen/amilamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
