@@ -1,6 +1,7 @@
 ### Hi there, I'm Amen 👋
 
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" height="200" />
+
 [![Amen's github stats](https://github-readme-stats.vercel.app/api?username=amilamen&count_private=true&show_icons=true&theme=synthwave)](https://github.com/amilamen/github-readme-stats)
 
 
