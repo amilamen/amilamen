@@ -17,7 +17,7 @@ Happy to read your resume also on your profile.
 
 🔭 Stay tuned !
 
-[![Amen's github stats](https://github-readme-stats.vercel.app/api?username=amilamen)](https://github.com/amilamen/github-readme-stats)
+[![Amen's github stats](https://github-readme-stats.vercel.app/api?username=amilamen&count_private=true&show_icons=true&theme=synthwave)](https://github.com/amilamen/github-readme-stats)
 
 <!--
 **amilamen/amilamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
