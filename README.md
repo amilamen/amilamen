@@ -1,6 +1,6 @@
 ### Hi there, I'm Amen 👋
 
-[![Amen's github stats](https://github-readme-stats.vercel.app/api?username=amilamen&count_private=true&show_icons=true&theme=synthwave)](https://github.com/amilamen/github-readme-stats)
+[![Amen's github stats](https://github-readme-stats.vercel.app/api?username=amilamen&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/amilamen/github-readme-stats)
 
 I'm developer fullstack 🤓🤓**JavaScript**🤓🤓 with some skills in *PHP* and *Java*. 
 
