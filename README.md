@@ -9,7 +9,7 @@ I'm developer fullstack **JavaScript** with some skills in *PHP* and *Java*.
 
 I work at [**Vyconsulting**](https://vyconsulting-group.com) (@vy-group) with an awesome team. We help many companies or business through development of mobile and web apps for growth of their benefits.  
 
-My favourite stack in front-end is **Ionic - Angular - Capacitor/Cordova** because *I ❤️ mobile development as much as web development* and for back-end I use **Nestjs or Laravel** 😄 
+My favourite stack in front-end is **Ionic - Angular - Capacitor/Cordova** because **I love mobile development as much as web development** and for back-end I use **Nestjs or Laravel**.
 
 I forget 🤔 I'm firstly 🤓🤓**Electronics and Embedded Systems Engineer**🤓🤓 with focus on *IOT*.
 
