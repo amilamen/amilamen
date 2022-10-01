@@ -6,7 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amilamen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-I'm developer fullstack **JavaScript** with some skills in *PHP* and *Java*. 
+I'm **Fullstack Developer JavaScript** and **Ionic Developer Expert**.
 
 I work at [**Wetillix**](https://wetillix.com) (@wetillix) with an awesome team. We help many companies or business through development of mobile and web apps for growth of their benefits.  
 
