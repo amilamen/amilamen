@@ -2,7 +2,9 @@
 
 [![Amen's github stats](https://github-readme-stats.vercel.app/api?username=amilamen&count_private=true&show_icons=true&theme=synthwave)](https://github.com/amilamen/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amilamen)](https://github.com/amilamen/github-readme-stats)
+![Amen's github activity graph](https://activity-graph.herokuapp.com/graph?username=amilamen&theme=dracula)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amilamen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 I'm developer fullstack **JavaScript** with some skills in *PHP* and *Java*. 
 
