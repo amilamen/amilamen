@@ -10,7 +10,7 @@ I work at [**Wetillix**](https://wetillix.com) (@wetillix) with an awesome team.
 
 My favourite stack is **Ionic | Angular | Capacitor/Cordova** because **I love mobile development as much as web development**.
 
-You can follow me on [Twitter](https://twitter.com/ezchilamen) for fun discussions.
+You can follow me on [Twitter](https://twitter.com/ezchilamen) or [LinkedIn](https://www.linkedin.com/in/e-amen-agbla/) for fun discussions.
 
 Happy to read your resume also on your profile.
 
