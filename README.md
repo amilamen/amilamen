@@ -1,14 +1,8 @@
 ### Hi there, I'm Amen 👋
 
-[![Amen's github stats](https://github-readme-stats.vercel.app/api?username=amilamen&count_private=true&show_icons=true&theme=synthwave)](https://github.com/amilamen/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amilamen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 I'm **Senior Angular Developer** and **Ionic Developer Expert**.
 
-I work at [**Wetillix**](https://wetillix.com) (@wetillix) with an awesome team. We help many companies or business through development of mobile and web apps for growth of their benefits.  
-
-My favourite stack is **Ionic | Angular | Capacitor/Cordova** because **I love mobile development as much as web development**.
+My favourite stack is **Ionic • Angular • Capacitor/Cordova** because **I love mobile development as much as web development**.
 
 You can follow me on [Twitter](https://twitter.com/ezchilamen) or [LinkedIn](https://www.linkedin.com/in/e-amen-agbla/) for fun discussions.
 
