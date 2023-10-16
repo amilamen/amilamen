@@ -8,7 +8,7 @@ I'm **Senior Angular Developer** and **Ionic Developer Expert**.
 
 I work at [**Wetillix**](https://wetillix.com) (@wetillix) with an awesome team. We help many companies or business through development of mobile and web apps for growth of their benefits.  
 
-My favourite stack in front-end is **Ionic | Angular | Capacitor/Cordova** because **I love mobile development as much as web development** and for back-end I use **Express.js | Nestjs**.
+My favourite stack in front-end is **Ionic | Angular | Capacitor/Cordova** because **I love mobile development as much as web development**.
 
 I'm firstly **Electronics and Embedded Systems Engineer** with focus on *IOT*.
 
