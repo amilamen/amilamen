@@ -10,8 +10,6 @@ I work at [**Wetillix**](https://wetillix.com) (@wetillix) with an awesome team.
 
 My favourite stack in front-end is **Ionic | Angular | Capacitor/Cordova** because **I love mobile development as much as web development**.
 
-I'm firstly **Electronics and Embedded Systems Engineer** with focus on *IOT*.
-
 You can follow me on [Twitter](https://twitter.com/ezchilamen) for fun discussions.
 
 Happy to read your resume also on your profile.
