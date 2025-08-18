@@ -1,6 +1,6 @@
 ### Hi there, I'm Amen 👋
 
-I'm **Senior Angular Developer** and **Ionic Developer Expert**.
+I'm **Google Developer Expert Angular** and **Ionic Developer Expert**.
 
 My favourite stack is **Ionic • Angular • Capacitor/Cordova** because **I love mobile development as much as web development**.
 
